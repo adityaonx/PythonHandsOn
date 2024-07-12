@@ -1,3 +1,4 @@
 //excluding the environment files and folders from git!
 .ipynb_checkpoints/
 00*/
+/pyNotebook
