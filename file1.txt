@@ -1,0 +1,1 @@
+By Devin Balkcom, with significant contributions from Tom Cormen and Hany Farid. We recommend using an updated version of Chrome or Firefox to run the interactive examples.

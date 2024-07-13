@@ -1,0 +1,1 @@
+Project Python is a free interactive book that will teach you to code in Python, using graphics, animations, and games. You’ll also learn ways to solve classical computer science problems, principles of software design, and how to analyze algorithm performance. No prior experience required; you’ll write code to draw a smiley face by the end of the first chapter.

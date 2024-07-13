@@ -1,8 +1,5 @@
-from strictly import *
+a = [0,1,2,3,4,5,6,7,8]
 
-@strictly
-def num(n:int):
-        print(n)
-
-
-num("Hello")
+for index,item in enumerate(a):
+        if (index%2==1):
+                print(item)
